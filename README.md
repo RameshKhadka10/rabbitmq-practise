@@ -1,0 +1,1 @@
+It is the practise project for the RabbitMQ.
